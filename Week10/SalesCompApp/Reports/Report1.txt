@@ -1,0 +1,14 @@
+INVOICE TOTALS PER INVOICE AND CUSTOMER
+
+Code      First Name     Last Name      Invoice            Total
+----------------------------------------------------------------
+10011     Leona          Dunne          1002                9.98
+10011     Leona          Dunne          1004               34.87
+10011     Leona          Dunne          1008              399.15
+10012     Kathy          Smith          1003              153.85
+10014     Myron          Orlando        1001               24.94
+10014     Myron          Orlando        1006              397.83
+10015     Amy            O'Brian        1007               34.97
+10018     Anne           Farriss        1005               70.44
+----------------------------------------------------------------
+TOTALS                                                   1126.03
