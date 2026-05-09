@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>PA10BillingApp</AssemblyName>
+    <RootNamespace>PA10BillingApp</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>Glaycon</Authors>
+    <Product>R 'n R for Reading and Refreshment</Product>
+    <Description>Billing calculator for R 'n R for Reading and Refreshment.</Description>
+  </PropertyGroup>
+</Project>
